@@ -6,7 +6,7 @@ New text
 все файлв внутри папки .terraform из любой поддиректории проекта - "**/.terraform/*"
 файлы с конкретными названиями: crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
 файлы с этими расширениями: .tfvars и .tfstate- *.tfvars, *.tfstate
-файлы подходящие по маске:  .tfstate., crash.*.log, *.tfvars.json, *_override.tf, *_override.tf.json  (* любое количнтсво любых символов)
+файлы подходящие по маске:  .tfstate., crash.*.log, *.tfvars.json, *_override.tf, *_override.tf.json  (* любое количетсво любых символов)
 
 Все вышенаписаное создавалось в момент создания домашнего задание через Linux, теперь через GitHub буду подродно со скриншотами описывать процесс выполнения.
 
@@ -50,7 +50,7 @@ New text
 - все файлв внутри папки .terraform из любой поддиректории проекта - "**/.terraform/*"
 - файлы с конкретными названиями: crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
 - файлы с этими расширениями: .tfvars и .tfstate- *.tfvars, *.tfstate
-- файлы подходящие по маске:  .tfstate., crash.*.log, *.tfvars.json, *_override.tf, *_override.tf.json  (* любое количнтсво любых символов)"
+- файлы подходящие по маске:  .tfstate., crash.*.log, *.tfvars.json, *_override.tf, *_override.tf.json  (* любое количетсво любых символов)"
 
 ![alt text](https://github.com/mezhibo/devops-netology/blob/3f4362d579296826ff96625c26573c190af92893/IMG/6.jpg)
 
