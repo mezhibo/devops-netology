@@ -43,12 +43,6 @@
 
 Аналогично создайте аннотированный тег v0.1.
 
-Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги.
-
-в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
-
-в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
-
 
 
 **Решение 2.**
