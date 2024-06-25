@@ -22,7 +22,7 @@
 ![alt text](https://github.com/mezhibo/devops-netology/blob/22bc4f67f7c8ad613fdf307632b76b1485ab24df/IMG2/1.jpg)
 
 
-Теперь смотрим что новая репозитория появилась у нас в списк репозиторием подключенных в гиту на локальнйо машине 
+Теперь смотрим что новая репозитория появилась у нас в списке репозиторием подключенных в гиту на локальной машине 
 
 ![alt text](https://github.com/mezhibo/devops-netology/blob/22bc4f67f7c8ad613fdf307632b76b1485ab24df/IMG2/2.jpg)
 
